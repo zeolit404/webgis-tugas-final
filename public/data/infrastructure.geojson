@@ -1,0 +1,10 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        { "type": "Feature", "properties": { "type": "Jalan Utama Arteri", "condition": "Baik" }, "geometry": { "type": "LineString", "coordinates": [[106.78, -6.17], [106.82, -6.17], [106.84, -6.19], [106.88, -6.19]] } },
+        { "type": "Feature", "properties": { "type": "Jaringan Pipa Air", "condition": "Perlu Perbaikan" }, "geometry": { "type": "LineString", "coordinates": [[106.80, -6.15], [106.83, -6.23], [106.85, -6.25]] } },
+        { "type": "Feature", "properties": { "type": "Jalur Kabel Optik", "condition": "Baik" }, "geometry": { "type": "LineString", "coordinates": [[106.82, -6.15], [106.86, -6.15], [106.86, -6.21]] } },
+        { "type": "Feature", "properties": { "type": "Saluran Drainase Induk", "condition": "Dalam Proses" }, "geometry": { "type": "LineString", "coordinates": [[106.84, -6.17], [106.84, -6.25]] } },
+        { "type": "Feature", "properties": { "type": "Jalan Tol (Elevated)", "condition": "Baik" }, "geometry": { "type": "LineString", "coordinates": [[106.78, -6.19], [106.82, -6.21], [106.88, -6.21]] } }
+    ]
+}

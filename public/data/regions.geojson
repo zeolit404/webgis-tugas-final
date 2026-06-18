@@ -1,0 +1,209 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sektor Pusat",
+        "density": 120
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.82,
+              -6.17
+            ],
+            [
+              106.84,
+              -6.17
+            ],
+            [
+              106.84,
+              -6.19
+            ],
+            [
+              106.82,
+              -6.19
+            ],
+            [
+              106.82,
+              -6.17
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sektor Utara",
+        "density": 85
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.82,
+              -6.15
+            ],
+            [
+              106.86,
+              -6.15
+            ],
+            [
+              106.86,
+              -6.17
+            ],
+            [
+              106.82,
+              -6.17
+            ],
+            [
+              106.82,
+              -6.15
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sektor Timur",
+        "density": 95
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.84,
+              -6.17
+            ],
+            [
+              106.88,
+              -6.17
+            ],
+            [
+              106.88,
+              -6.21
+            ],
+            [
+              106.84,
+              -6.21
+            ],
+            [
+              106.84,
+              -6.17
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sektor Selatan",
+        "density": 110
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.8,
+              -6.19
+            ],
+            [
+              106.84,
+              -6.19
+            ],
+            [
+              106.84,
+              -6.24
+            ],
+            [
+              106.8,
+              -6.24
+            ],
+            [
+              106.8,
+              -6.19
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sektor Barat",
+        "density": 75
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.78,
+              -6.15
+            ],
+            [
+              106.82,
+              -6.15
+            ],
+            [
+              106.82,
+              -6.19
+            ],
+            [
+              106.78,
+              -6.19
+            ],
+            [
+              106.78,
+              -6.15
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sektor Tenggara",
+        "density": 60
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.84,
+              -6.21
+            ],
+            [
+              106.88,
+              -6.21
+            ],
+            [
+              106.88,
+              -6.25
+            ],
+            [
+              106.84,
+              -6.25
+            ],
+            [
+              106.84,
+              -6.21
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

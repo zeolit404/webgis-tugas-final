@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        { "type": "Feature", "properties": { "id": "SV-001", "status": "Selesai", "keterangan": "Validasi batas lahan" }, "geometry": { "type": "Point", "coordinates": [106.825, -6.175] } },
+        { "type": "Feature", "properties": { "id": "SV-002", "status": "Dalam Proses", "keterangan": "Verifikasi utilitas" }, "geometry": { "type": "Point", "coordinates": [106.835, -6.180] } },
+        { "type": "Feature", "properties": { "id": "SV-003", "status": "Selesai", "keterangan": "Pengukuran kontur" }, "geometry": { "type": "Point", "coordinates": [106.870, -6.160] } },
+        { "type": "Feature", "properties": { "id": "SV-004", "status": "Kendala", "keterangan": "Akses tertutup" }, "geometry": { "type": "Point", "coordinates": [106.865, -6.200] } },
+        { "type": "Feature", "properties": { "id": "SV-005", "status": "Selesai", "keterangan": "Pemetaan utilitas" }, "geometry": { "type": "Point", "coordinates": [106.840, -6.215] } },
+        { "type": "Feature", "properties": { "id": "SV-006", "status": "Dalam Proses", "keterangan": "Survei tata ruang" }, "geometry": { "type": "Point", "coordinates": [106.815, -6.160] } },
+        { "type": "Feature", "properties": { "id": "SV-007", "status": "Kendala", "keterangan": "Cuaca buruk" }, "geometry": { "type": "Point", "coordinates": [106.850, -6.185] } },
+        { "type": "Feature", "properties": { "id": "SV-008", "status": "Selesai", "keterangan": "Inventarisasi aset" }, "geometry": { "type": "Point", "coordinates": [106.810, -6.210] } },
+        { "type": "Feature", "properties": { "id": "SV-009", "status": "Dalam Proses", "keterangan": "Pembebasan lahan" }, "geometry": { "type": "Point", "coordinates": [106.875, -6.190] } },
+        { "type": "Feature", "properties": { "id": "SV-010", "status": "Selesai", "keterangan": "Uji tanah" }, "geometry": { "type": "Point", "coordinates": [106.790, -6.170] } },
+        { "type": "Feature", "properties": { "id": "SV-011", "status": "Selesai", "keterangan": "Inspeksi drainase" }, "geometry": { "type": "Point", "coordinates": [106.855, -6.230] } },
+        { "type": "Feature", "properties": { "id": "SV-012", "status": "Kendala", "keterangan": "Sengketa warga" }, "geometry": { "type": "Point", "coordinates": [106.830, -6.220] } },
+        { "type": "Feature", "properties": { "id": "SV-013", "status": "Dalam Proses", "keterangan": "Pemetaan drone" }, "geometry": { "type": "Point", "coordinates": [106.800, -6.180] } },
+        { "type": "Feature", "properties": { "id": "SV-014", "status": "Selesai", "keterangan": "Audit lingkungan" }, "geometry": { "type": "Point", "coordinates": [106.860, -6.175] } },
+        { "type": "Feature", "properties": { "id": "SV-015", "status": "Selesai", "keterangan": "Pemeriksaan hidrologi" }, "geometry": { "type": "Point", "coordinates": [106.845, -6.155] } }
+    ]
+}
